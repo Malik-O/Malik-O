@@ -3,7 +3,8 @@
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width='400' align="right" />
 - 🌱 I’m currently learning **Flutter**
 
-- 📫 How to reach me **myemail46926213@gmail.com**
+- 📫 How to reach me via email **myemail46926213@gmail.com**
+- 📱 How to reach me via phon **+20 155 364 3278**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
